@@ -19,8 +19,8 @@ export function Hero() {
           </span>
 
           <h1 className="mt-6 text-balance text-4xl font-semibold leading-[1.05] tracking-tight text-cold sm:text-5xl md:text-6xl">
-            Convierte tu experiencia en comercio exterior en una{' '}
-            <span className="text-accent">máquina de generación de clientes.</span>
+            Analisis y estrategias de marketing basadas {' '}
+            <span className="text-accent">en Datos para Comercio Exterior</span>
           </h1>
 
           <p className="mt-6 max-w-2xl text-pretty text-base leading-relaxed text-steel sm:text-lg">
