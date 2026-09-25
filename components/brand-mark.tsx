@@ -5,24 +5,17 @@ export function BrandMark() {
         aria-hidden="true"
         className="relative flex h-8 w-8 items-center justify-center rounded-md border border-accent/40 bg-accent/10"
       >
-        <svg viewBox="0 0 24 24" className="h-4 w-4 text-accent" fill="none">
-          <path
-            d="M3 17 9 11l4 4 8-9"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
+        <img src="https://github.com/lucortesmuna/armisev1/blob/main/public/Logo-2025-4-Logo-principal-oscuro-fondo-claro.webp" alt="LOGO NEGRO" />
           <circle cx="9" cy="11" r="1.6" fill="currentColor" />
           <circle cx="13" cy="15" r="1.6" fill="currentColor" />
         </svg>
       </span>
       <span className="flex flex-col leading-none">
         <span className="text-[15px] font-semibold tracking-tight text-cold">
-          [Nombre de la Empresa]
+          ARMISE
         </span>
         <span className="mt-0.5 text-[9px] font-medium uppercase tracking-[0.18em] text-steel">
-          Demand · Comercio Exterior
+         Análisis y estrategias basadas en datos
         </span>
       </span>
     </span>
