@@ -14,9 +14,7 @@ export function Hero() {
       <div className="relative mx-auto w-full max-w-6xl px-5 py-16 sm:px-8">
         <div className="max-w-3xl">
           <span className="inline-flex items-center gap-2 rounded-full border border-accent/30 bg-accent/10 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.18em] text-accent">
-            <span className="h-1.5 w-1.5 rounded-full bg-accent" />
-            Generación de demanda B2B · Comercio exterior
-          </span>
+          
 
           <h1 className="mt-6 text-balance text-4xl font-semibold leading-[1.05] tracking-tight text-cold sm:text-5xl md:text-6xl">
             Analisis y estrategias de marketing basadas {' '}
