@@ -5,7 +5,7 @@ export function BrandMark() {
         aria-hidden="true"
         className="relative flex h-8 w-8 items-center justify-center rounded-md border border-accent/40 bg-accent/10"
       >
-        <img src="https://github.com/lucortesmuna/armisev1/blob/main/public/Logo-2025-4-Logo-principal-oscuro-fondo-claro.webp" alt="LOGO NEGRO" />
+        <img src="lucortesmuna/armisev1/public/Logo-2025-4-Logo-principal-oscuro-fondo-claro.webp" alt="LOGO NEGRO" />
         
       </span>
       <span className="flex flex-col leading-none">
