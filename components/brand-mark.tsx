@@ -6,9 +6,7 @@ export function BrandMark() {
         className="relative flex h-8 w-8 items-center justify-center rounded-md border border-accent/40 bg-accent/10"
       >
         <img src="https://github.com/lucortesmuna/armisev1/blob/main/public/Logo-2025-4-Logo-principal-oscuro-fondo-claro.webp" alt="LOGO NEGRO" />
-          <circle cx="9" cy="11" r="1.6" fill="currentColor" />
-          <circle cx="13" cy="15" r="1.6" fill="currentColor" />
-        </svg>
+        
       </span>
       <span className="flex flex-col leading-none">
         <span className="text-[15px] font-semibold tracking-tight text-cold">
