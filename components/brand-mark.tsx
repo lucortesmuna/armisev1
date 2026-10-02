@@ -13,7 +13,7 @@ export function BrandMark() {
           ARMISE
         </span>
         <span className="mt-0.5 text-[9px] font-medium uppercase tracking-[0.18em] text-steel">
-         Análisis y estrategias basadas en datos
+         Inteligencia que conecta
         </span>
       </span>
     </span>
